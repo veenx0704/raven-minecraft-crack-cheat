@@ -2,6 +2,14 @@
 
 Raven B++ кряк, Raven B++ crack — бесплатный ghost-клиент Minecraft 1.8.9 для Hypixel. Лоадер, AimAssist, Reach, Velocity.
 
+## Постер с сайта MoggyDay
+
+[![Raven B++ — poster, crack, cheat, скачать с moggydaymc-cheat.com](https://moggydaymc-cheat.com/assets/posters/raven.jpg)](https://moggydaymc-cheat.com/client.html?id=raven)
+
+Фото карточки на сайте: [https://moggydaymc-cheat.com/assets/posters/raven.jpg](https://moggydaymc-cheat.com/assets/posters/raven.jpg) · [https://moggydaymc-cheat.com/client.html?id=raven](https://moggydaymc-cheat.com/client.html?id=raven)
+
+В репозитории: `assets/poster.jpg` (тот же постер, что на сайте и в лаунchere).
+
 ## Скачать Raven B++ — только с официального сайта
 
 **Скачать с сайта MoggyDay** (официально, без зеркал и «левых» crack-файлов):
@@ -16,14 +24,30 @@ Raven B++ кряк, Raven B++ crack — бесплатный ghost-клиент 
 > **SEO:** запросы вроде «Raven B++ crack», «Raven B++ cheat», «Raven B++ кряк», «скачать Raven B++ minecraft» — качай **только** с **moggydaymc-cheat.com**, не с Telegram и не с file-hosting.
 
 
-## О клиенте
+## Кратко
 
 Raven B++ кряк / Raven B++ crack — открытый ghost-клиент 1.8.9. Лоадер Java 8, 3 ГБ. Функционал: AimAssist, Reach, Velocity, AutoClicker, Scaffold. Hypixel, BlocksMC, Minemen.
 
-- **Версии Minecraft:** 1.8.9
-- **Java:** 8
-- **Сервера:** Hypixel, BlocksMC, Minemen
-- **Модули:** aimassist reach velocity autoclicker scaffold
+| Параметр | Значение |
+| --- | --- |
+| Клиент | **Raven B++** |
+| Тип | FREE |
+| Направление | Ghost · 1.8.9 |
+| Minecraft | 1.8.9 |
+| Java | 8 |
+| RAM | 3 ГБ |
+| Античит | Watchdog |
+| Сервера | Hypixel, BlocksMC, Minemen |
+
+## Подробное описание
+
+Raven B++ кряк — продолжение Raven B+ после того, как оригинал забросили. Открытый код под GPL-3.0, работает на Forge и Feather, версия 1.8.9. AimAssist, Reach, Velocity, AutoClicker, Scaffold, HUD и профили, меню открывается левым Shift. Подходит для ранговых PvP и BedWars на 1.8.9. Мод Essential нужен обязательно, иначе клиент падает. Конфиг с другого клиента здесь не откроется.
+
+## Функционал и модули
+
+На MoggyDay Raven B++ — ghost на 1.8.9: AimAssist, Reach, Velocity, AutoClicker с настраиваемым CPS, Scaffold и SafeWalk, лёгкий HUD. Включай по ситуации: громкие значения на Hypixel быстро светятся. Профили и cfg храни отдельно (например raven.cfg), обновляй сборку после патча Watchdog.
+
+**Модули:** aimassist, reach, velocity, autoclicker, scaffold
 
 ## Ключевые слова (Google · Yandex · браузер)
 
